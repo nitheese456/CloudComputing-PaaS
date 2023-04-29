@@ -4,9 +4,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Image Recognition using AWS Lambda and IoT Raspberry PI</h3>
+  <h3 align="center">Smart Classroom Assistant using AWS Lambda</h3>
   <p align="center">
-    An IoT-based application that uses AWS S3, AWS Lambda and AWS DynamoDB to provide image recognition in real time to consumers of the application.
+     This assistant takes videos from the user’s classroom, performs face recognition on the collected videos, looks up the recognized students in the database, and returns the relevant academic information of each student back to the user. 
   </p>
 </div>
 
